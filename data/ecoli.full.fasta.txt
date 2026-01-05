@@ -1,0 +1,91 @@
+Start	Stop	Strand	Number of genes	Genes
+337	5020	+	3	thrA, thrB, thrC
+10643	11786	-	2	yaaW, yaaI
+16751	16960	-	2	mokC, hokC
+19811	20508	-	2	insB1, insA
+21181	22348	+	2	yaaY, ribF
+22391	25701	+	2	ileS, lspA
+25826	27227	+	2	fkpB, ispH
+29651	34038	+	2	carA, carB
+34781	36162	-	2	caiE, caiD
+39244	41931	-	2	caiA, caiT
+42403	44129	+	2	fixA, fixB
+44180	45750	+	2	fixC, fixX
+47246	49631	+	2	kefF, kefC
+50380	54702	-	5	apaH, apaG, rsmA, pdxA, surA
+59687	63264	-	2	rluA, rapA
+66835	70048	-	2	araA, araB
+72229	75480	-	3	thiQ, thiP, thiB
+78848	83529	-	4	leuD, leuC, leuB, leuA
+85630	87848	+	2	ilvI, ilvH
+89634	100711	+	10	mraZ, rsmH, ftsL, ftsI, murE, murF, mraY, murD, ftsW, murG
+100765	105244	+	4	murC, ddlB, ftsQ, ftsA
+111649	113219	-	3	yacG, zapD, coaE
+114522	117549	-	3	hofC, hofB, ppdD
+118733	120135	+	2	ampD, ampE
+123017	127587	+	2	aceE, aceF
+134788	136464	-	2	speD, speE
+142779	144472	+	2	yadG, yadH
+147944	149601	-	2	panC, panB
+151003	156201	-	5	yadK, yadL, yadM, htrE, yadV
+157253	159126	-	2	folK, pcnB
+159186	160604	-	2	gluQ, dksA
+160782	162031	-	2	sfsA, ligT
+169778	173444	+	3	fhuC, fhuD, fhuB
+177001	179153	-	3	yadS, btuF, mtn
+185123	188650	-	2	dapD, glnD
+194903	200360	+	4	ispU, cdsA, rseP, bamA
+200482	201996	+	2	skp, lpxD
+202101	209580	+	6	fabZ, lpxA, lpxB, rnhB, dnaE, accA
+213678	214125	-	2	rof, yaeP
+214291	215979	+	3	yaeQ, arfB, nlpE
+218887	219995	-	2	tsaA, rcsF
+220113	222645	-	3	metQ, metI, metN
+231122	232549	+	2	yafD, yafE
+245961	246502	-	2	yafQ, dinJ
+252005	253161	+	3	yafN, yafO, yafP
+259612	261980	+	2	proB, proA
+262552	264430	-	5	ykfI, yafW, ykfH, ykfG, yafX
+264844	265777	-	2	ykfB, yafY
+274549	276871	+	2	mmuP, mmuM
+278402	279099	-	2	insB1, insA
+281502	284392	+	2	yagE, yagF
+284619	287623	+	2	yagG, yagH
+289873	290570	-	2	insB1, insA
+292444	294023	-	2	yagL, yagM
+296994	301797	-	4	paoD, paoC, paoB, paoA
+303719	309250	-	4	ecpE, ecpD, ecpC, ecpB
+311598	312001	-	2	ykgO, ykgM
+314515	315677	+	2	insE1, insF1
+316950	317791	-	2	ykgB, ykgI
+320832	323677	+	3	ykgE, ykgF, ykgG
+324801	328558	-	3	betA, betB, betI
+334504	338967	+	4	yahD, yahE, yahF, yahG
+339389	341731	+	2	yahI, yahJ
+349236	353816	+	3	prpC, prpD, prpE
+354146	356678	+	2	codB, codA
+358023	360370	+	3	cynT, cynS, cynX
+367835	374105	+	6	mhpA, mhpB, mhpC, mhpD, mhpF, mhpE
+377686	379105	-	2	frmA, frmR
+380575	381803	+	2	insC1, insD1
+384456	387870	+	4	tauA, tauB, tauC, tauD
+390963	392125	-	2	insF1, insE1
+395863	398190	+	2	sbmA, yaiW
+411831	416176	-	2	sbcC, sbcD
+425361	429700	+	4	tgt, yajC, secD, secF
+432226	433782	+	2	nrdR, ribD
+433871	434780	+	2	ribE, nusB
+434858	436331	+	2	thiL, pgpA
+437539	440567	-	3	dxs, ispA, xseB
+442275	443739	-	2	yajL, panE
+446039	450834	-	5	cyoE, cyoD, cyoC, cyoB, cyoA
+467607	471641	+	3	ybaO, mdlA, mdlB
+471822	473476	+	2	glnK, amtB
+479314	479932	-	2	hha, tomB
+480478	484843	-	2	acrB, acrA
+489334	490036	-	2	ybaM, priC
+493300	494234	+	2	ybaB, recR
+510865	513092	+	2	glsA, ybaT
+513625	514997	-	2	ybbJ, qmcA
+515143	516586	+	2	ybbL, ybbM
+517564	518989	-	2	ybbO, tesA
