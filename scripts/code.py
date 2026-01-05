@@ -128,7 +128,7 @@ Read_dict(codon_file)
 operons_table_file = open('data/e.coli_operons.txt','r')
 
 # פתיחת קובץ לכתיבה.
-proteines_file = open('data/proteines.txt', 'w')
+proteines_file = open('results/proteines.txt', 'w')
 
 
 # הלולאה קוראת את רצף ה- DNA של החיידק מהקובץ.
